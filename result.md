@@ -8,7 +8,7 @@
 **Kết quả Agent:**
 Trả lời trực tiếp
 TravelBuddy: Chào bạn! Thật tuyệt khi bạn đang có kế hoạch đi du lịch. Bạn có ý tưởng nào về điểm đến chưa? Hoặc bạn muốn khám phá một thành phố nào đó ở Việt Nam như Hà Nội, Đà Nẵng, Phú Quốc hay Hồ Chí Minh? Nếu bạn có ngân sách cụ thể, mình có thể giúp bạn tìm kiếm chuyến bay và khách sạn phù hợp!
----
+
 
 ## Test 2 - Single Tool Call
 **User**: Tìm giúp tôi chuyến bay từ Hà Nội đi Đà Nẵng
